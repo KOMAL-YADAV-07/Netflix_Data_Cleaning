@@ -107,7 +107,7 @@ After preprocessing, the dataset became:
 
 ## 👩‍💻 Author
 
-Komal
+Komal<br>
 Aspiring Data Analyst | Python & Data Analytics Enthusiast
 
 ---
