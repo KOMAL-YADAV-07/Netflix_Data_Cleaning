@@ -1,4 +1,4 @@
-# netflix_data_cleaning
+# Netflix_Data_Cleaning
 The final cleaned dataset is consistent, well-structured, and ready for exploratory data analysis and visualization. This project demonstrates practical skills in data wrangling, feature engineering, and preprocessing using Python and Pandas.
 
 # 📊 Netflix Data Cleaning & Preprocessing Project
@@ -103,14 +103,4 @@ After preprocessing, the dataset became:
 * Data Standardization
 * Pandas Data Manipulation
 
----
-
-## 👩‍💻 Author
-
-Komal<br>
-Aspiring Data Analyst | Python & Data Analytics Enthusiast
-
----
-
-⭐ This project demonstrates practical data preprocessing skills applied to a real-world dataset.
 
